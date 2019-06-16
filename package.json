@@ -1,6 +1,6 @@
 {
   "name": "gw2api-emulator",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A GW2 API emulator for local testing.",
   "main": "index.js",
   "scripts": {},
