@@ -7,6 +7,10 @@
   "bin": {
     "gw2api-emulator": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RedGlow/gw2api-emulator.git"
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
