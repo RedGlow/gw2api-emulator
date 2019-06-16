@@ -4,6 +4,12 @@
   "description": "A GW2 API emulator for local testing.",
   "main": "index.js",
   "scripts": {},
+  "keywords": [
+    "gw2",
+    "test",
+    "testing",
+    "integration"
+  ],
   "bin": {
     "gw2api-emulator": "./index.js"
   },
