@@ -1,0 +1,16 @@
+{
+  "name": "gw2api-emulator",
+  "version": "0.1.0",
+  "description": "A GW2 API emulator for local testing.",
+  "main": "index.js",
+  "scripts": {},
+  "bin": {
+    "gw2api-emulator": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^13.2.4"
+  }
+}
