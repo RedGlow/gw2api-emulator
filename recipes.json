@@ -1,0 +1,4108 @@
+[
+    {
+        "type": "Insignia",
+        "output_item_id": 19802,
+        "output_item_count": 1,
+        "min_rating": 50,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 71307,
+                "count": 1
+            },
+            {
+                "item_id": 24342,
+                "count": 8
+            }
+        ],
+        "id": 51,
+        "chat_link": "[&CTMAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19872,
+        "output_item_count": 1,
+        "min_rating": 75,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19740,
+                "count": 1
+            },
+            {
+                "item_id": 24279,
+                "count": 3
+            }
+        ],
+        "id": 52,
+        "chat_link": "[&CTQAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19804,
+        "output_item_count": 1,
+        "min_rating": 75,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19740,
+                "count": 1
+            },
+            {
+                "item_id": 24343,
+                "count": 3
+            }
+        ],
+        "id": 53,
+        "chat_link": "[&CTUAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19806,
+        "output_item_count": 1,
+        "min_rating": 75,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19740,
+                "count": 1
+            },
+            {
+                "item_id": 24347,
+                "count": 3
+            }
+        ],
+        "id": 54,
+        "chat_link": "[&CTYAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19808,
+        "output_item_count": 1,
+        "min_rating": 100,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19740,
+                "count": 1
+            },
+            {
+                "item_id": 24291,
+                "count": 3
+            }
+        ],
+        "id": 55,
+        "chat_link": "[&CTcAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19809,
+        "output_item_count": 1,
+        "min_rating": 100,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19740,
+                "count": 1
+            },
+            {
+                "item_id": 24353,
+                "count": 3
+            }
+        ],
+        "id": 56,
+        "chat_link": "[&CTgAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19874,
+        "output_item_count": 1,
+        "min_rating": 100,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19740,
+                "count": 1
+            },
+            {
+                "item_id": 24285,
+                "count": 3
+            }
+        ],
+        "id": 57,
+        "chat_link": "[&CTkAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19873,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 71225,
+                "count": 1
+            },
+            {
+                "item_id": 24279,
+                "count": 8
+            }
+        ],
+        "id": 58,
+        "chat_link": "[&CToAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19810,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 71225,
+                "count": 1
+            },
+            {
+                "item_id": 24291,
+                "count": 8
+            }
+        ],
+        "id": 59,
+        "chat_link": "[&CTsAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19803,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 71225,
+                "count": 1
+            },
+            {
+                "item_id": 24343,
+                "count": 8
+            }
+        ],
+        "id": 60,
+        "chat_link": "[&CTwAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19807,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 71225,
+                "count": 1
+            },
+            {
+                "item_id": 24347,
+                "count": 8
+            }
+        ],
+        "id": 61,
+        "chat_link": "[&CT0AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19811,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 71225,
+                "count": 1
+            },
+            {
+                "item_id": 24353,
+                "count": 8
+            }
+        ],
+        "id": 62,
+        "chat_link": "[&CT4AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19875,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 71225,
+                "count": 1
+            },
+            {
+                "item_id": 24285,
+                "count": 8
+            }
+        ],
+        "id": 63,
+        "chat_link": "[&CT8AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19867,
+        "output_item_count": 1,
+        "min_rating": 150,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19742,
+                "count": 1
+            },
+            {
+                "item_id": 24280,
+                "count": 3
+            }
+        ],
+        "id": 64,
+        "chat_link": "[&CUAAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19818,
+        "output_item_count": 1,
+        "min_rating": 150,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19742,
+                "count": 1
+            },
+            {
+                "item_id": 24344,
+                "count": 3
+            }
+        ],
+        "id": 65,
+        "chat_link": "[&CUEAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19817,
+        "output_item_count": 1,
+        "min_rating": 150,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19742,
+                "count": 1
+            },
+            {
+                "item_id": 24348,
+                "count": 3
+            }
+        ],
+        "id": 66,
+        "chat_link": "[&CUIAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19813,
+        "output_item_count": 1,
+        "min_rating": 175,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19742,
+                "count": 1
+            },
+            {
+                "item_id": 24292,
+                "count": 3
+            }
+        ],
+        "id": 67,
+        "chat_link": "[&CUMAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19812,
+        "output_item_count": 1,
+        "min_rating": 175,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19742,
+                "count": 1
+            },
+            {
+                "item_id": 24354,
+                "count": 3
+            }
+        ],
+        "id": 68,
+        "chat_link": "[&CUQAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19814,
+        "output_item_count": 1,
+        "min_rating": 175,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19742,
+                "count": 1
+            },
+            {
+                "item_id": 24286,
+                "count": 3
+            }
+        ],
+        "id": 69,
+        "chat_link": "[&CUUAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19868,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72752,
+                "count": 1
+            },
+            {
+                "item_id": 24280,
+                "count": 8
+            }
+        ],
+        "id": 70,
+        "chat_link": "[&CUYAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19815,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72752,
+                "count": 1
+            },
+            {
+                "item_id": 24292,
+                "count": 8
+            }
+        ],
+        "id": 71,
+        "chat_link": "[&CUcAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19821,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72752,
+                "count": 1
+            },
+            {
+                "item_id": 24344,
+                "count": 8
+            }
+        ],
+        "id": 72,
+        "chat_link": "[&CUgAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19820,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72752,
+                "count": 1
+            },
+            {
+                "item_id": 24348,
+                "count": 8
+            }
+        ],
+        "id": 73,
+        "chat_link": "[&CUkAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19816,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72752,
+                "count": 1
+            },
+            {
+                "item_id": 24354,
+                "count": 8
+            }
+        ],
+        "id": 74,
+        "chat_link": "[&CUoAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19819,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72752,
+                "count": 1
+            },
+            {
+                "item_id": 24286,
+                "count": 8
+            }
+        ],
+        "id": 75,
+        "chat_link": "[&CUsAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19904,
+        "output_item_count": 1,
+        "min_rating": 225,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19744,
+                "count": 1
+            },
+            {
+                "item_id": 24345,
+                "count": 3
+            }
+        ],
+        "id": 76,
+        "chat_link": "[&CUwAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19905,
+        "output_item_count": 1,
+        "min_rating": 225,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19744,
+                "count": 1
+            },
+            {
+                "item_id": 24287,
+                "count": 3
+            }
+        ],
+        "id": 77,
+        "chat_link": "[&CU0AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19906,
+        "output_item_count": 1,
+        "min_rating": 225,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19744,
+                "count": 1
+            },
+            {
+                "item_id": 24355,
+                "count": 3
+            }
+        ],
+        "id": 78,
+        "chat_link": "[&CU4AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19851,
+        "output_item_count": 1,
+        "min_rating": 250,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19744,
+                "count": 1
+            },
+            {
+                "item_id": 24363,
+                "count": 3
+            }
+        ],
+        "id": 79,
+        "chat_link": "[&CU8AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19876,
+        "output_item_count": 1,
+        "min_rating": 250,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19744,
+                "count": 1
+            },
+            {
+                "item_id": 24349,
+                "count": 3
+            }
+        ],
+        "id": 80,
+        "chat_link": "[&CVAAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19850,
+        "output_item_count": 1,
+        "min_rating": 250,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19744,
+                "count": 1
+            },
+            {
+                "item_id": 24293,
+                "count": 3
+            }
+        ],
+        "id": 81,
+        "chat_link": "[&CVEAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19852,
+        "output_item_count": 1,
+        "min_rating": 250,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19744,
+                "count": 1
+            },
+            {
+                "item_id": 24281,
+                "count": 3
+            }
+        ],
+        "id": 82,
+        "chat_link": "[&CVIAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19907,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76216,
+                "count": 1
+            },
+            {
+                "item_id": 24345,
+                "count": 8
+            }
+        ],
+        "id": 83,
+        "chat_link": "[&CVMAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19877,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76216,
+                "count": 1
+            },
+            {
+                "item_id": 24363,
+                "count": 8
+            }
+        ],
+        "id": 84,
+        "chat_link": "[&CVQAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19878,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76216,
+                "count": 1
+            },
+            {
+                "item_id": 24349,
+                "count": 8
+            }
+        ],
+        "id": 85,
+        "chat_link": "[&CVUAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19849,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76216,
+                "count": 1
+            },
+            {
+                "item_id": 24293,
+                "count": 8
+            }
+        ],
+        "id": 86,
+        "chat_link": "[&CVYAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19879,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76216,
+                "count": 1
+            },
+            {
+                "item_id": 24281,
+                "count": 8
+            }
+        ],
+        "id": 87,
+        "chat_link": "[&CVcAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19908,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76216,
+                "count": 1
+            },
+            {
+                "item_id": 24287,
+                "count": 8
+            }
+        ],
+        "id": 88,
+        "chat_link": "[&CVgAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19909,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76216,
+                "count": 1
+            },
+            {
+                "item_id": 24355,
+                "count": 8
+            }
+        ],
+        "id": 89,
+        "chat_link": "[&CVkAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19865,
+        "output_item_count": 1,
+        "min_rating": 300,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19747,
+                "count": 1
+            },
+            {
+                "item_id": 24341,
+                "count": 3
+            }
+        ],
+        "id": 90,
+        "chat_link": "[&CVoAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19864,
+        "output_item_count": 1,
+        "min_rating": 300,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19747,
+                "count": 1
+            },
+            {
+                "item_id": 24288,
+                "count": 3
+            }
+        ],
+        "id": 91,
+        "chat_link": "[&CVsAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19862,
+        "output_item_count": 1,
+        "min_rating": 300,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19747,
+                "count": 1
+            },
+            {
+                "item_id": 24356,
+                "count": 3
+            }
+        ],
+        "id": 92,
+        "chat_link": "[&CVwAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19866,
+        "output_item_count": 1,
+        "min_rating": 325,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19747,
+                "count": 1
+            },
+            {
+                "item_id": 24299,
+                "count": 3
+            }
+        ],
+        "id": 93,
+        "chat_link": "[&CV0AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19853,
+        "output_item_count": 1,
+        "min_rating": 325,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19747,
+                "count": 1
+            },
+            {
+                "item_id": 24350,
+                "count": 3
+            }
+        ],
+        "id": 94,
+        "chat_link": "[&CV4AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19861,
+        "output_item_count": 1,
+        "min_rating": 325,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19747,
+                "count": 1
+            },
+            {
+                "item_id": 24294,
+                "count": 3
+            }
+        ],
+        "id": 95,
+        "chat_link": "[&CV8AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19863,
+        "output_item_count": 1,
+        "min_rating": 325,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19747,
+                "count": 1
+            },
+            {
+                "item_id": 24282,
+                "count": 3
+            }
+        ],
+        "id": 96,
+        "chat_link": "[&CWAAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19859,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 1
+            },
+            {
+                "item_id": 24341,
+                "count": 8
+            }
+        ],
+        "id": 97,
+        "chat_link": "[&CWEAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19860,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 1
+            },
+            {
+                "item_id": 24299,
+                "count": 8
+            }
+        ],
+        "id": 98,
+        "chat_link": "[&CWIAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19854,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 1
+            },
+            {
+                "item_id": 24350,
+                "count": 8
+            }
+        ],
+        "id": 99,
+        "chat_link": "[&CWMAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19855,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 1
+            },
+            {
+                "item_id": 24294,
+                "count": 8
+            }
+        ],
+        "id": 100,
+        "chat_link": "[&CWQAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19857,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 1
+            },
+            {
+                "item_id": 24282,
+                "count": 8
+            }
+        ],
+        "id": 101,
+        "chat_link": "[&CWUAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19858,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 1
+            },
+            {
+                "item_id": 24288,
+                "count": 8
+            }
+        ],
+        "id": 102,
+        "chat_link": "[&CWYAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19856,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 1
+            },
+            {
+                "item_id": 24356,
+                "count": 8
+            }
+        ],
+        "id": 103,
+        "chat_link": "[&CWcAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19880,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 2
+            },
+            {
+                "item_id": 24341,
+                "count": 15
+            }
+        ],
+        "id": 104,
+        "chat_link": "[&CWgAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19881,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 2
+            },
+            {
+                "item_id": 24299,
+                "count": 15
+            }
+        ],
+        "id": 105,
+        "chat_link": "[&CWkAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19882,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 2
+            },
+            {
+                "item_id": 24350,
+                "count": 15
+            }
+        ],
+        "id": 106,
+        "chat_link": "[&CWoAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19883,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 2
+            },
+            {
+                "item_id": 24294,
+                "count": 15
+            }
+        ],
+        "id": 107,
+        "chat_link": "[&CWsAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19884,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 2
+            },
+            {
+                "item_id": 24282,
+                "count": 15
+            }
+        ],
+        "id": 108,
+        "chat_link": "[&CWwAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19885,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 2
+            },
+            {
+                "item_id": 24288,
+                "count": 15
+            }
+        ],
+        "id": 109,
+        "chat_link": "[&CW0AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19886,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72194,
+                "count": 2
+            },
+            {
+                "item_id": 24356,
+                "count": 15
+            }
+        ],
+        "id": 110,
+        "chat_link": "[&CW4AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19910,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76614,
+                "count": 5
+            },
+            {
+                "item_id": 24358,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 111,
+        "chat_link": "[&CW8AAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19911,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76614,
+                "count": 5
+            },
+            {
+                "item_id": 24300,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 112,
+        "chat_link": "[&CXAAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19912,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76614,
+                "count": 5
+            },
+            {
+                "item_id": 24351,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 113,
+        "chat_link": "[&CXEAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19913,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76614,
+                "count": 5
+            },
+            {
+                "item_id": 24295,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 114,
+        "chat_link": "[&CXIAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19914,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76614,
+                "count": 5
+            },
+            {
+                "item_id": 24283,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 115,
+        "chat_link": "[&CXMAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19915,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76614,
+                "count": 5
+            },
+            {
+                "item_id": 24289,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 116,
+        "chat_link": "[&CXQAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19916,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 76614,
+                "count": 5
+            },
+            {
+                "item_id": 24357,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 117,
+        "chat_link": "[&CXUAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19887,
+        "output_item_count": 1,
+        "min_rating": 0,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19758,
+                "count": 1
+            },
+            {
+                "item_id": 24278,
+                "count": 3
+            }
+        ],
+        "id": 118,
+        "chat_link": "[&CXYAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19763,
+        "output_item_count": 1,
+        "min_rating": 0,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19758,
+                "count": 1
+            },
+            {
+                "item_id": 24290,
+                "count": 3
+            }
+        ],
+        "id": 119,
+        "chat_link": "[&CXcAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19783,
+        "output_item_count": 1,
+        "min_rating": 0,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19758,
+                "count": 1
+            },
+            {
+                "item_id": 24342,
+                "count": 3
+            }
+        ],
+        "id": 120,
+        "chat_link": "[&CXgAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19822,
+        "output_item_count": 1,
+        "min_rating": 25,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19758,
+                "count": 1
+            },
+            {
+                "item_id": 24296,
+                "count": 3
+            }
+        ],
+        "id": 121,
+        "chat_link": "[&CXkAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19776,
+        "output_item_count": 1,
+        "min_rating": 25,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19758,
+                "count": 1
+            },
+            {
+                "item_id": 24346,
+                "count": 3
+            }
+        ],
+        "id": 122,
+        "chat_link": "[&CXoAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19787,
+        "output_item_count": 1,
+        "min_rating": 25,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19758,
+                "count": 1
+            },
+            {
+                "item_id": 24284,
+                "count": 3
+            }
+        ],
+        "id": 123,
+        "chat_link": "[&CXsAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19888,
+        "output_item_count": 1,
+        "min_rating": 50,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12990,
+                "count": 1
+            },
+            {
+                "item_id": 24278,
+                "count": 8
+            }
+        ],
+        "id": 124,
+        "chat_link": "[&CXwAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19889,
+        "output_item_count": 1,
+        "min_rating": 50,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12990,
+                "count": 1
+            },
+            {
+                "item_id": 24296,
+                "count": 8
+            }
+        ],
+        "id": 125,
+        "chat_link": "[&CX0AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19767,
+        "output_item_count": 1,
+        "min_rating": 50,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12990,
+                "count": 1
+            },
+            {
+                "item_id": 24290,
+                "count": 8
+            }
+        ],
+        "id": 126,
+        "chat_link": "[&CX4AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19772,
+        "output_item_count": 1,
+        "min_rating": 50,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12990,
+                "count": 1
+            },
+            {
+                "item_id": 24346,
+                "count": 8
+            }
+        ],
+        "id": 127,
+        "chat_link": "[&CX8AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19785,
+        "output_item_count": 1,
+        "min_rating": 50,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12990,
+                "count": 1
+            },
+            {
+                "item_id": 24284,
+                "count": 8
+            }
+        ],
+        "id": 128,
+        "chat_link": "[&CYAAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19779,
+        "output_item_count": 1,
+        "min_rating": 50,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12990,
+                "count": 1
+            },
+            {
+                "item_id": 24342,
+                "count": 8
+            }
+        ],
+        "id": 129,
+        "chat_link": "[&CYEAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19892,
+        "output_item_count": 1,
+        "min_rating": 75,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19761,
+                "count": 1
+            },
+            {
+                "item_id": 24279,
+                "count": 3
+            }
+        ],
+        "id": 130,
+        "chat_link": "[&CYIAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19765,
+        "output_item_count": 1,
+        "min_rating": 75,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19761,
+                "count": 1
+            },
+            {
+                "item_id": 24343,
+                "count": 3
+            }
+        ],
+        "id": 131,
+        "chat_link": "[&CYMAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19827,
+        "output_item_count": 1,
+        "min_rating": 75,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19761,
+                "count": 1
+            },
+            {
+                "item_id": 24347,
+                "count": 3
+            }
+        ],
+        "id": 132,
+        "chat_link": "[&CYQAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19826,
+        "output_item_count": 1,
+        "min_rating": 100,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19761,
+                "count": 1
+            },
+            {
+                "item_id": 24291,
+                "count": 3
+            }
+        ],
+        "id": 133,
+        "chat_link": "[&CYUAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19829,
+        "output_item_count": 1,
+        "min_rating": 100,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19761,
+                "count": 1
+            },
+            {
+                "item_id": 24353,
+                "count": 3
+            }
+        ],
+        "id": 134,
+        "chat_link": "[&CYYAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19828,
+        "output_item_count": 1,
+        "min_rating": 100,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19761,
+                "count": 1
+            },
+            {
+                "item_id": 24285,
+                "count": 3
+            }
+        ],
+        "id": 135,
+        "chat_link": "[&CYcAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19890,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12993,
+                "count": 1
+            },
+            {
+                "item_id": 24279,
+                "count": 8
+            }
+        ],
+        "id": 136,
+        "chat_link": "[&CYgAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19823,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12993,
+                "count": 1
+            },
+            {
+                "item_id": 24291,
+                "count": 8
+            }
+        ],
+        "id": 137,
+        "chat_link": "[&CYkAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19769,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12993,
+                "count": 1
+            },
+            {
+                "item_id": 24343,
+                "count": 8
+            }
+        ],
+        "id": 138,
+        "chat_link": "[&CYoAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19825,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12993,
+                "count": 1
+            },
+            {
+                "item_id": 24347,
+                "count": 8
+            }
+        ],
+        "id": 139,
+        "chat_link": "[&CYsAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19824,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12993,
+                "count": 1
+            },
+            {
+                "item_id": 24353,
+                "count": 8
+            }
+        ],
+        "id": 140,
+        "chat_link": "[&CYwAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19891,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12993,
+                "count": 1
+            },
+            {
+                "item_id": 24285,
+                "count": 8
+            }
+        ],
+        "id": 141,
+        "chat_link": "[&CY0AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19831,
+        "output_item_count": 1,
+        "min_rating": 150,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19760,
+                "count": 1
+            },
+            {
+                "item_id": 24280,
+                "count": 3
+            }
+        ],
+        "id": 142,
+        "chat_link": "[&CY4AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19834,
+        "output_item_count": 1,
+        "min_rating": 150,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19760,
+                "count": 1
+            },
+            {
+                "item_id": 24344,
+                "count": 3
+            }
+        ],
+        "id": 143,
+        "chat_link": "[&CY8AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19788,
+        "output_item_count": 1,
+        "min_rating": 150,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19760,
+                "count": 1
+            },
+            {
+                "item_id": 24348,
+                "count": 3
+            }
+        ],
+        "id": 144,
+        "chat_link": "[&CZAAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19770,
+        "output_item_count": 1,
+        "min_rating": 175,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19760,
+                "count": 1
+            },
+            {
+                "item_id": 24292,
+                "count": 3
+            }
+        ],
+        "id": 145,
+        "chat_link": "[&CZEAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19777,
+        "output_item_count": 1,
+        "min_rating": 175,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19760,
+                "count": 1
+            },
+            {
+                "item_id": 24354,
+                "count": 3
+            }
+        ],
+        "id": 146,
+        "chat_link": "[&CZIAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19830,
+        "output_item_count": 1,
+        "min_rating": 175,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19760,
+                "count": 1
+            },
+            {
+                "item_id": 24286,
+                "count": 3
+            }
+        ],
+        "id": 147,
+        "chat_link": "[&CZMAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19832,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12992,
+                "count": 1
+            },
+            {
+                "item_id": 24280,
+                "count": 8
+            }
+        ],
+        "id": 148,
+        "chat_link": "[&CZQAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19768,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12992,
+                "count": 1
+            },
+            {
+                "item_id": 24292,
+                "count": 8
+            }
+        ],
+        "id": 149,
+        "chat_link": "[&CZUAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19835,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12992,
+                "count": 1
+            },
+            {
+                "item_id": 24344,
+                "count": 8
+            }
+        ],
+        "id": 150,
+        "chat_link": "[&CZYAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19833,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12992,
+                "count": 1
+            },
+            {
+                "item_id": 24348,
+                "count": 8
+            }
+        ],
+        "id": 151,
+        "chat_link": "[&CZcAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19774,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12992,
+                "count": 1
+            },
+            {
+                "item_id": 24354,
+                "count": 8
+            }
+        ],
+        "id": 152,
+        "chat_link": "[&CZgAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19781,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12992,
+                "count": 1
+            },
+            {
+                "item_id": 24286,
+                "count": 8
+            }
+        ],
+        "id": 153,
+        "chat_link": "[&CZkAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19839,
+        "output_item_count": 1,
+        "min_rating": 225,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19759,
+                "count": 1
+            },
+            {
+                "item_id": 24345,
+                "count": 3
+            }
+        ],
+        "id": 154,
+        "chat_link": "[&CZoAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19764,
+        "output_item_count": 1,
+        "min_rating": 225,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19759,
+                "count": 1
+            },
+            {
+                "item_id": 24287,
+                "count": 3
+            }
+        ],
+        "id": 155,
+        "chat_link": "[&CZsAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19838,
+        "output_item_count": 1,
+        "min_rating": 225,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19759,
+                "count": 1
+            },
+            {
+                "item_id": 24355,
+                "count": 3
+            }
+        ],
+        "id": 156,
+        "chat_link": "[&CZwAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19841,
+        "output_item_count": 1,
+        "min_rating": 250,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19759,
+                "count": 1
+            },
+            {
+                "item_id": 24363,
+                "count": 3
+            }
+        ],
+        "id": 157,
+        "chat_link": "[&CZ0AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19896,
+        "output_item_count": 1,
+        "min_rating": 250,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19759,
+                "count": 1
+            },
+            {
+                "item_id": 24349,
+                "count": 3
+            }
+        ],
+        "id": 158,
+        "chat_link": "[&CZ4AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19842,
+        "output_item_count": 1,
+        "min_rating": 250,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19759,
+                "count": 1
+            },
+            {
+                "item_id": 24293,
+                "count": 3
+            }
+        ],
+        "id": 159,
+        "chat_link": "[&CZ8AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19840,
+        "output_item_count": 1,
+        "min_rating": 250,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19759,
+                "count": 1
+            },
+            {
+                "item_id": 24281,
+                "count": 3
+            }
+        ],
+        "id": 160,
+        "chat_link": "[&CaAAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19836,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12991,
+                "count": 1
+            },
+            {
+                "item_id": 24345,
+                "count": 8
+            }
+        ],
+        "id": 161,
+        "chat_link": "[&CaEAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19893,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12991,
+                "count": 1
+            },
+            {
+                "item_id": 24363,
+                "count": 8
+            }
+        ],
+        "id": 162,
+        "chat_link": "[&CaIAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19894,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12991,
+                "count": 1
+            },
+            {
+                "item_id": 24349,
+                "count": 8
+            }
+        ],
+        "id": 163,
+        "chat_link": "[&CaMAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19837,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12991,
+                "count": 1
+            },
+            {
+                "item_id": 24293,
+                "count": 8
+            }
+        ],
+        "id": 164,
+        "chat_link": "[&CaQAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19895,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12991,
+                "count": 1
+            },
+            {
+                "item_id": 24281,
+                "count": 8
+            }
+        ],
+        "id": 165,
+        "chat_link": "[&CaUAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19773,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12991,
+                "count": 1
+            },
+            {
+                "item_id": 24287,
+                "count": 8
+            }
+        ],
+        "id": 166,
+        "chat_link": "[&CaYAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19780,
+        "output_item_count": 1,
+        "min_rating": 275,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12991,
+                "count": 1
+            },
+            {
+                "item_id": 24355,
+                "count": 8
+            }
+        ],
+        "id": 167,
+        "chat_link": "[&CacAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19846,
+        "output_item_count": 1,
+        "min_rating": 300,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19757,
+                "count": 1
+            },
+            {
+                "item_id": 24341,
+                "count": 3
+            }
+        ],
+        "id": 168,
+        "chat_link": "[&CagAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19847,
+        "output_item_count": 1,
+        "min_rating": 300,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19757,
+                "count": 1
+            },
+            {
+                "item_id": 24288,
+                "count": 3
+            }
+        ],
+        "id": 169,
+        "chat_link": "[&CakAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19786,
+        "output_item_count": 1,
+        "min_rating": 300,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19757,
+                "count": 1
+            },
+            {
+                "item_id": 24356,
+                "count": 3
+            }
+        ],
+        "id": 170,
+        "chat_link": "[&CaoAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19782,
+        "output_item_count": 1,
+        "min_rating": 325,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19757,
+                "count": 1
+            },
+            {
+                "item_id": 24299,
+                "count": 3
+            }
+        ],
+        "id": 171,
+        "chat_link": "[&CasAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19848,
+        "output_item_count": 1,
+        "min_rating": 325,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19757,
+                "count": 1
+            },
+            {
+                "item_id": 24350,
+                "count": 3
+            }
+        ],
+        "id": 172,
+        "chat_link": "[&CawAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19762,
+        "output_item_count": 1,
+        "min_rating": 325,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19757,
+                "count": 1
+            },
+            {
+                "item_id": 24294,
+                "count": 3
+            }
+        ],
+        "id": 173,
+        "chat_link": "[&Ca0AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19775,
+        "output_item_count": 1,
+        "min_rating": 325,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19757,
+                "count": 1
+            },
+            {
+                "item_id": 24282,
+                "count": 3
+            }
+        ],
+        "id": 174,
+        "chat_link": "[&Ca4AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19844,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 1
+            },
+            {
+                "item_id": 24341,
+                "count": 8
+            }
+        ],
+        "id": 175,
+        "chat_link": "[&Ca8AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19778,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 1
+            },
+            {
+                "item_id": 24299,
+                "count": 8
+            }
+        ],
+        "id": 176,
+        "chat_link": "[&CbAAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19843,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 1
+            },
+            {
+                "item_id": 24350,
+                "count": 8
+            }
+        ],
+        "id": 177,
+        "chat_link": "[&CbEAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19766,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 1
+            },
+            {
+                "item_id": 24294,
+                "count": 8
+            }
+        ],
+        "id": 178,
+        "chat_link": "[&CbIAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19771,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 1
+            },
+            {
+                "item_id": 24282,
+                "count": 8
+            }
+        ],
+        "id": 179,
+        "chat_link": "[&CbMAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19845,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 1
+            },
+            {
+                "item_id": 24288,
+                "count": 8
+            }
+        ],
+        "id": 180,
+        "chat_link": "[&CbQAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19784,
+        "output_item_count": 1,
+        "min_rating": 350,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 1
+            },
+            {
+                "item_id": 24356,
+                "count": 8
+            }
+        ],
+        "id": 181,
+        "chat_link": "[&CbUAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19897,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 2
+            },
+            {
+                "item_id": 24341,
+                "count": 15
+            }
+        ],
+        "id": 182,
+        "chat_link": "[&CbYAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19898,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 2
+            },
+            {
+                "item_id": 24299,
+                "count": 15
+            }
+        ],
+        "id": 183,
+        "chat_link": "[&CbcAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19899,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 2
+            },
+            {
+                "item_id": 24350,
+                "count": 15
+            }
+        ],
+        "id": 184,
+        "chat_link": "[&CbgAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19900,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 2
+            },
+            {
+                "item_id": 24294,
+                "count": 15
+            }
+        ],
+        "id": 185,
+        "chat_link": "[&CbkAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19901,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 2
+            },
+            {
+                "item_id": 24282,
+                "count": 15
+            }
+        ],
+        "id": 186,
+        "chat_link": "[&CboAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19902,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 2
+            },
+            {
+                "item_id": 24288,
+                "count": 15
+            }
+        ],
+        "id": 187,
+        "chat_link": "[&CbsAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19903,
+        "output_item_count": 1,
+        "min_rating": 375,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12989,
+                "count": 2
+            },
+            {
+                "item_id": 24356,
+                "count": 15
+            }
+        ],
+        "id": 188,
+        "chat_link": "[&CbwAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19917,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12988,
+                "count": 5
+            },
+            {
+                "item_id": 24358,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 189,
+        "chat_link": "[&Cb0AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19918,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12988,
+                "count": 5
+            },
+            {
+                "item_id": 24300,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 190,
+        "chat_link": "[&Cb4AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19919,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12988,
+                "count": 5
+            },
+            {
+                "item_id": 24351,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 191,
+        "chat_link": "[&Cb8AAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19920,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12988,
+                "count": 5
+            },
+            {
+                "item_id": 24295,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 192,
+        "chat_link": "[&CcAAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19921,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12988,
+                "count": 5
+            },
+            {
+                "item_id": 24283,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 193,
+        "chat_link": "[&CcEAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19922,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12988,
+                "count": 5
+            },
+            {
+                "item_id": 24289,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 194,
+        "chat_link": "[&CcIAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19923,
+        "output_item_count": 1,
+        "min_rating": 400,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "LearnedFromItem"
+        ],
+        "ingredients": [
+            {
+                "item_id": 12988,
+                "count": 5
+            },
+            {
+                "item_id": 24357,
+                "count": 5
+            },
+            {
+                "item_id": 19721,
+                "count": 5
+            }
+        ],
+        "id": 195,
+        "chat_link": "[&CcMAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19930,
+        "output_item_count": 1,
+        "min_rating": 100,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19740,
+                "count": 1
+            },
+            {
+                "item_id": 24297,
+                "count": 3
+            }
+        ],
+        "id": 196,
+        "chat_link": "[&CcQAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19931,
+        "output_item_count": 1,
+        "min_rating": 125,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 71225,
+                "count": 1
+            },
+            {
+                "item_id": 24297,
+                "count": 8
+            }
+        ],
+        "id": 197,
+        "chat_link": "[&CcUAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19932,
+        "output_item_count": 1,
+        "min_rating": 175,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19742,
+                "count": 1
+            },
+            {
+                "item_id": 24298,
+                "count": 3
+            }
+        ],
+        "id": 198,
+        "chat_link": "[&CcYAAAA=]"
+    },
+    {
+        "type": "Insignia",
+        "output_item_id": 19933,
+        "output_item_count": 1,
+        "min_rating": 200,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Leatherworker",
+            "Armorsmith",
+            "Tailor"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 72752,
+                "count": 1
+            },
+            {
+                "item_id": 24298,
+                "count": 8
+            }
+        ],
+        "id": 199,
+        "chat_link": "[&CccAAAA=]"
+    },
+    {
+        "type": "Inscription",
+        "output_item_id": 19926,
+        "output_item_count": 1,
+        "min_rating": 100,
+        "time_to_craft_ms": 1000,
+        "disciplines": [
+            "Artificer",
+            "Weaponsmith",
+            "Huntsman"
+        ],
+        "flags": [
+            "AutoLearned"
+        ],
+        "ingredients": [
+            {
+                "item_id": 19761,
+                "count": 1
+            },
+            {
+                "item_id": 24297,
+                "count": 3
+            }
+        ],
+        "id": 200,
+        "chat_link": "[&CcgAAAA=]"
+    }
+]

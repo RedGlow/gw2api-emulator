@@ -12,7 +12,11 @@ const app = express();
 /**
  * @type Array
  */
-const data = require("./data.json");
+const items = require("./items.json");
+/**
+ * @type Array
+ */
+const recipes = require("./recipes.json");
 
 const port = parseInt(argv.port, 10);
 
@@ -37,44 +41,58 @@ const setupRes = res => {
 };
 
 app.get("/v2/items", (req, res) => {
-  setupRes(res);
-  if (req.query.page === undefined) {
-    res.json(data.map(item => item.id));
-  } else {
-    const page = parseInt(req.query.page, 10);
-    const pageSize = req.query.page_size
-      ? parseInt(req.query.page_size, 10)
-      : 50;
-    const slice = data.slice(page * pageSize, (page + 1) * pageSize);
-    res.setHeader("X-Page-Size", pageSize);
-    const pageTotal = Math.ceil(data.length / pageSize);
-    res.setHeader("X-Page-Total", pageTotal);
-    res.setHeader("X-Result-Count", slice.length);
-    res.setHeader("X-Result-Total", data.length);
-    //link: </v2/items?page=44&page_size=50>; rel=previous, </v2/items?page=46&page_size=50>; rel=next, </v2/items?page=45&page_size=50>; rel=self, </v2/items?page=0&page_size=50>; rel=first, </v2/items?page=1123&page_size=50>; rel=last
-    res.setHeader(
-      "link",
-      (page === 0
-        ? ""
-        : `</v2/items?page=${page -
-            1}&page_size=${pageSize}>; rel=previous, `) +
-        (page === pageTotal - 1
-          ? ""
-          : `</v2/items?page=${page + 1}&page_size=${pageSize}>; rel=next, `) +
-        `</v2/items?page=${page}&page_size=${pageSize}>; rel=self, ` +
-        `</v2/items?page=0&page_size=${pageSize}>; rel=first, ` +
-        `</v2/items?page=${pageTotal - 1}&page_size=${pageSize}>; rel=last`
-    );
-    res.json(slice);
-  }
+  queryContainer(res, req, items);
 });
 
 app.get("/v2/items/:id", (req, res) => {
-  setupRes(res);
-  const id = parseInt(req.params.id, 10);
-  res.json(data.filter(item => item.id === id)[0]);
+  queryContainerEntry(res, req, items);
+});
+
+app.get("/v2/recipes", (req, res) => {
+  queryContainer(res, req, recipes);
+});
+
+app.get("/v2/recipes/:id", (req, res) => {
+  queryContainerEntry(res, req, recipes);
 });
 
 app.listen(port, () =>
   console.log(`Server started and listening at http://localhost:${port}`)
 );
+function queryContainerEntry(res, req, container) {
+  setupRes(res);
+  const id = parseInt(req.params.id, 10);
+  res.json(container.filter(entry => entry.id === id)[0]);
+}
+
+function queryContainer(res, req, container) {
+  setupRes(res);
+  if (req.query.page === undefined) {
+    res.json(container.map(entry => entry.id));
+  }
+  else {
+    const page = parseInt(req.query.page, 10);
+    const pageSize = req.query.page_size
+      ? parseInt(req.query.page_size, 10)
+      : 50;
+    const slice = container.slice(page * pageSize, (page + 1) * pageSize);
+    res.setHeader("X-Page-Size", pageSize);
+    const pageTotal = Math.ceil(container.length / pageSize);
+    res.setHeader("X-Page-Total", pageTotal);
+    res.setHeader("X-Result-Count", slice.length);
+    res.setHeader("X-Result-Total", container.length);
+    //link: </v2/container?page=44&page_size=50>; rel=previous, </v2/container?page=46&page_size=50>; rel=next, </v2/container?page=45&page_size=50>; rel=self, </v2/container?page=0&page_size=50>; rel=first, </v2/container?page=1123&page_size=50>; rel=last
+    res.setHeader("link", (page === 0
+      ? ""
+      : `</v2/container?page=${page -
+      1}&page_size=${pageSize}>; rel=previous, `) +
+      (page === pageTotal - 1
+        ? ""
+        : `</v2/container?page=${page + 1}&page_size=${pageSize}>; rel=next, `) +
+      `</v2/container?page=${page}&page_size=${pageSize}>; rel=self, ` +
+      `</v2/container?page=0&page_size=${pageSize}>; rel=first, ` +
+      `</v2/container?page=${pageTotal - 1}&page_size=${pageSize}>; rel=last`);
+    res.json(slice);
+  }
+}
+
